@@ -74,3 +74,8 @@ Clone and run:
 ```
 
 Access it in the browser at http://localhost:7860.
+
+![image](https://github.com/user-attachments/assets/5598bf69-1a89-4bf2-b706-56ae5ddb0d13)
+
+![image](https://github.com/user-attachments/assets/30d09980-039c-4e0b-91c5-f08004cf38f8)
+
