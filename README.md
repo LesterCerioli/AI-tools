@@ -21,7 +21,7 @@ sudo apt update && sudo apt install -y python3 python3-pip python3-venv
 
 ```
 
-## **2. Running Large Language Models (LLMs) Locally
+## **2. Running Large Language Models (LLMs) Locally**
 If you want to run AI models like LLaMA, Mistral, or GPT-style models on your machine:
 #### Install Ollama (Easy LLM Runtime)
 ```bash
@@ -35,7 +35,7 @@ To run an AI model:
     ollama run mistral
 ```
 
-## ** 3. Running AI Models Using llama.cpp (Optimized for CPU)
+## ** 3. Running AI Models Using llama.cpp (Optimized for CPU)**
 
 If you prefer an open-source alternative:
 
@@ -50,13 +50,13 @@ To run a model:
     ./main -m models/your_model.gguf -p "Hello, AI!"
 ```
 
-## **4. Installing OpenAI Whisper for Speech-to-Text
+## **4. Installing OpenAI Whisper for Speech-to-Text**
 ```bash
     pip install openai-whisper
     whisper example.wav --model small
 ```
 
-## **5. Running Stable Diffusion (Image Generation)
+## **5. Running Stable Diffusion (Image Generation)**
 Install dependencies:
 
 ```bash
