@@ -7,7 +7,7 @@ To set up a general AI/ML environment, install Python and essential libraries.
 ```bash
 sudo apt update && sudo apt install -y python3 python3-pip python3-venv
 
-#### Create a virtual environment:
+Create a virtual environment:
 ```bash
     python3 -m venv ai_env
     source ai_env/bin/activate
